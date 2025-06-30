@@ -5,7 +5,7 @@ var culture = new CultureInfo("zh-TW");
 var today = DateTime.Today;
 
 // 班表起算日
-var startDate = new DateTime(2025, 7, 1); // 第一天為上班
+var startDate = new DateTime(2025, 6, 30); // 第一天為上班
 
 Console.WriteLine("本週班表：");
 
