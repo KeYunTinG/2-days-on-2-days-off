@@ -24,3 +24,4 @@ for (int i = 0; i < 7; i++)
 
     Console.WriteLine($"{date.ToString("dddd", culture)} {date:yyyy-MM-dd} - {status}");
 }
+Console.ReadKey();
